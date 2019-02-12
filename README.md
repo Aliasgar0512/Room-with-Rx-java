@@ -1,1 +1,1 @@
-# Simple Exmaple of Roon With simple RxJava Code.
+# Simple Exmaple of Room With simple RxJava Code.
